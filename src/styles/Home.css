@@ -1,0 +1,50 @@
+/* Home.css */
+.home {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .hero {
+    background-color: #007bff;
+    color: #fff;
+    padding: 100px 0;
+  }
+  
+  .hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+  }
+  
+  .hero button {
+    background-color: #fff;
+    color: #007bff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .featured-services {
+    margin: 40px 0;
+  }
+  
+  .featured-services h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .about-us {
+    margin: 40px 0;
+  }
+  
+  .about-us h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
